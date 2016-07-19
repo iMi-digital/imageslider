@@ -1,4 +1,7 @@
-<h1>Magento 2 Image Slider Extension</h1>
+
+  
+  
+  <h1>Magento 2 Image Slider Extension</h1>
 <ol>
   <li>
     Fully responsive Magento 2 Slider
@@ -14,14 +17,14 @@
   </li>
   <li>
     Image slider can be displayed anywhere in your store with CMS and Widget
-    <p>Through CMS & Widget, your magento 2 slider can be shown in any position such as Homepage image slider, Content Slider, Gallery Slider, Product image Slider, Footer Area, Brand Slider, Offer Slider.</p>
+    <p>Through CMS &amp; Widget, your magento 2 slider can be shown in any position such as Homepage image slider, Content Slider, Gallery Slider, Product image Slider, Footer Area, Brand Slider, Offer Slider.</p>
   </li>
   <li>
     Magento 2 Image Slider support 10 sliders
     <p>The image slider widget also allows you to show your images in a continuous slideshow. It is easy to create slider as you expected.</p>
   </li>
   <li>
-    Easy-to-use & intuitive interface
+    Easy-to-use &amp; intuitive interface
     <p>Easy to use and user friendly interface will help you to manage your slider better</p>
   </li>
   <li>
@@ -67,7 +70,7 @@ mv composer.phar /usr/local/bin/composer
         <pre><code>composer require ves/magento2-imageslider
 </code></pre>
         <p>When prompted, enter your <a href="http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html">authentication keys</a>. Your <em>public key</em> is your username; your <em>private key</em> is your password.</p>
-</div>
+
       <p>b) Method 2: You can download as zip file and unzip the Image Slider extension into folder app/code/Ves/ImageSlider</p>
       </li>
     </ol>
