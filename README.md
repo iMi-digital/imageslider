@@ -54,6 +54,28 @@ mv composer.phar /usr/local/bin/composer
         <p>For additional installation options, see the <a href="https://getcomposer.org/download/" target="_blank">Composer installation documentation</a>.</p>
       </li>
     </ol>
+
+<h1 id="integrator-first-composer-ce">Get the Image Slider extension</h1>
+    <p>To get started:</p>
+<ol>
+      <li>
+        <p>Make sure you know your support portal user name and password.</p>
+
+        <p>If you don’t remember it, contact Magento Support before you continue.</p>
+      </li>
+      <li>Log in to your Magento server as, or switch to, the <a href="http://devdocs.magento.com/guides/v2.0/install-gde/prereq/file-sys-perms-over.html">Magento file system owner</a>.</li>
+      <li>Change to the web server docroot directory, or to a directory you’ve configured as a virtual host docroot.</li>
+      <li>
+        <p>Get the extension files: 2 method</p>
+        <p>a) Method 1: Enter the following command:</p>
+        <pre><code>composer require ves/magento2-imageslider
+</code></pre>
+        <p>When prompted, enter your <a href="http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html">authentication keys</a>. Your <em>public key</em> is your username; your <em>private key</em> is your password.</p>
+
+      <p>b) Method 2: You can download as zip file and unzip the Image Slider extension into folder app/code/Ves/ImageSlider</p>
+      </li>
+    </ol>
+   
     <h1 id="integrator-first-composer-ce">Get the Image Slider extension</h1>
     <p>To get started:</p>
     <ol>
