@@ -33,8 +33,8 @@
 <p>First, check  if Composer is already installed: </p>
 <p>In a command prompt, enter any of the following commands:</p>
 <ul>
-	<li><code>composer --help</code></li>
-	<li><code>composer list --help</code></li>
+	<li><pre><code>composer --help</code></pre></li>
+	<li><pre><code>composer list --help</code></pre></li>
 </ul>
 <p>If command help displays, Composer is already installed.</p>
 <p>If an error displays, use the following steps to install Composer.</p>
