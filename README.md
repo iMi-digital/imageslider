@@ -32,10 +32,8 @@
 <h1>Install Composer</h1>
 <p>First, check  if Composer is already installed: </p>
 <p>In a command prompt, enter any of the following commands:</p>
-<ul>
-	<li><pre><code>composer --help</code></pre></li>
-	<li><pre><code>composer list --help</code></pre></li>
-</ul>
+<pre><code>composer --help</code></pre>
+<pre><code>composer list --help</code></pre>
 <p>If command help displays, Composer is already installed.</p>
 <p>If an error displays, use the following steps to install Composer.</p>
 <p>To install Composer:</p>
